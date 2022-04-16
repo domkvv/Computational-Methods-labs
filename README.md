@@ -1,4 +1,4 @@
-# Computational Methods - labs
+## Computational Methods - labs
 
 This repo contains exercises with my solutions for the Computational Methods in Science and Technology course at CS AGH UST 21/22. Most of the notebooks are written in Julia, some of them in R. There are also few additional C code pieces converted to Markdown. 
 
