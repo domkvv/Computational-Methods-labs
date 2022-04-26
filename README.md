@@ -7,3 +7,4 @@ This repo contains exercises with my solutions for the Computational Methods in 
 3. [Interpolation in Julia](https://github.com/domkvv/Computational-Methods-labs/tree/main/lab3) - comparison of Lagrange's, Newton's and Polynomials package's interpolation methods, Neville's algorithm example
 4. [Approximation in R](https://github.com/domkvv/Computational-Methods-labs/tree/main/lab4) - working with the data from point 2.
 5. [Approximation in Julia](https://github.com/domkvv/Computational-Methods-labs/tree/main/lab5) - comparison of different matrix multiplication methods runtime in Julia and C,  comparison of   interpolation   with Chebyshev and equally spaced nodes, example of Pade approximation
+6. [Hermite Interpolation in Julia](https://github.com/domkvv/Computational-Methods-labs/tree/main/lab6) - Hermite Interpolation of given data set (ECG)
