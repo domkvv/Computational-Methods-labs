@@ -9,3 +9,4 @@ This repo contains exercises with my solutions for the Computational Methods in 
 5. [Approximation in Julia](https://github.com/domkvv/Computational-Methods-labs/tree/main/lab5) - comparison of different matrix multiplication methods runtime in Julia and C,  comparison of   interpolation   with Chebyshev and equally spaced nodes, example of Pade approximation
 6. [Hermite Interpolation in Julia](https://github.com/domkvv/Computational-Methods-labs/tree/main/lab6) - Hermite Interpolation of given data set (ECG)
 7. [Numerical Integration in Julia](https://github.com/domkvv/Computational-Methods-labs/tree/main/lab7) - Legendre Polynomials, Gaussian quadrature, numerical integration
+8. [Root-finding algorithms in Julia](https://github.com/domkvv/Computational-Methods-labs/tree/main/lab8) - Basic methods, simple Newton's Fractal drawing function
